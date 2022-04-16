@@ -1,16 +1,22 @@
-# title(){return this.options.title||this.options.name}
+Developing my first JavaScript app following scrimba and Flatiron school.
 
-## Supporting Scrimba
+Very simple counter app that help to reinforced what I have learned and currently from Flatiron school in combination to challenges via Scrimba.
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+This simple counting app:
+fundamental HTML & CSS
+JavaScript functions
+Increment
+Manipuilating the DOM
+Redndering variables in index.html
+and mush more.
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
 
-	It would also mean the world to us if you share the courses.  
+Update:
+Redesigned
+Fixed count button function (404 error)
+Added save button and function
 
-Happy Coding!
+Roadmap:
+Rename App :)
+add additional features
+improve design

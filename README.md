@@ -7,7 +7,7 @@ fundamental HTML & CSS
 JavaScript functions
 Increment
 Manipuilating the DOM
-Renddering variables in index.html
+Rendering variables in index.html
 and mush more.
 
 

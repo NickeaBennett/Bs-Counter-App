@@ -1,6 +1,6 @@
 Developing my first JavaScript app following scrimba and Flatiron school.
 
-Very simple counter app that help to reinforced what I have learned and currently from Flatiron school in combination to challenges via Scrimba.
+Very simple counter app that help to reinforced what I have learned and currently learning from Flatiron school in combination with challenges via Scrimba.
 
 This simple counting app:
 fundamental HTML & CSS

@@ -8,7 +8,7 @@ JavaScript functions
 Increment
 Manipuilating the DOM
 Rendering variables in index.html
-and mush more.
+and much more.
 
 
 Update:
